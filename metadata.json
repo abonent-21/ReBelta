@@ -1,0 +1,6 @@
+{
+  "name": "ReBelta — AI & Physician Digital Rehabilitation",
+  "description": "Персонализированная домашняя реабилитация под контролем врача и искусственного интеллекта. Компьютерное зрение, многоуровневая валидация безопасности и прямая связь со специалистом.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
